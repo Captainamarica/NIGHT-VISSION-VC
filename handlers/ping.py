@@ -63,7 +63,7 @@ async def help(client: Client, message: Message):
                         " sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/{SUPPORT_GROUP}"
                     ),
                     InlineKeyboardButton(
-                        " sᴏᴜʀᴄᴇ ", url="https://github.com/Captainamarica/NIGHT-VISSION-VC"
+                        " MORE BOTS ", url="https://t.me/NightVission"
                     )
                 ]
             ]
